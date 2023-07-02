@@ -1,3 +1,0 @@
-[submodule "linux-kernel"]
-	path = linux-kernel
-	url = git@github.com:torvalds/linux.git
